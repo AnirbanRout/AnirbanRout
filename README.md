@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Employee Management System (Spring Boot + JPA)<br>REST APIs with DTO + layered architecture<br>Backend projects (Spring Boot / Java)<br>Open source beginner-friendly issues<br>Advanced JPA mappings (OneToMany, cascading, updates)<br>System design basics<br>Spring Boot (advanced)<br>Clean architecture & best practices<br>Spring Boot basics<br>REST API design<br>DTO vs Entity, JPA concepts<br>I enjoy debugging more than writing code 😄<br>(or anything personal like coding streak, coffee, etc.)
+🔭 Working on: Employee Management System | REST APIs (Spring Boot, JPA, DTO)<br>
+👯 Collaborate on: Backend (Java, Spring Boot) | Open source<br>
+🤝 Help with: Advanced JPA, System Design<br>
+🌱 Learning: Spring Boot (Advanced), Clean Architecture<br>
+💬 Ask me about: REST APIs, DTO vs Entity, JPA<br>
+⚡ Fun fact: I enjoy debugging more than coding 😄
 
 
 ## 🌐 Socials:
